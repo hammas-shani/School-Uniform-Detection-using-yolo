@@ -1,1 +1,1 @@
-# School-Uniform-Detection-using-yolo
+# School-Uniform-detection
